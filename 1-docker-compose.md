@@ -45,7 +45,8 @@ docker compose up -d <nombre servicio>
 ```
 docker compose ps
 ```
-<img width="1623" height="367" alt="imagen" src="https://github.com/user-attachments/assets/1300792d-4d5c-4f6a-9862-8e394b7120a9" />
+<img width="1575" height="314" alt="imagen" src="https://github.com/user-attachments/assets/2e561d7b-c8e9-4803-ad1f-f8e4fd5ac5b7" />
+
 
 
 
